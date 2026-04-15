@@ -23,7 +23,7 @@ Each module must be fully completed and mastered (90%+ confidence, 3 clean solve
 
 | # | Module | Folder | Prerequisites | Why This Order |
 |---|--------|--------|---------------|----------------|
-| 5 | **Dictionaries** | `dicts_sets/` | Lists, Tuples | Dicts are the second most important structure. Key-value mapping is everywhere — APIs, configs, frequency counting. |
+| 5 | **Dictionaries** | `dictionaries/` | Lists, Tuples | Dicts are the second most important structure. Key-value mapping is everywhere — APIs, configs, frequency counting. |
 | 6 | **Sets** | `sets/` | Dictionaries | Sets are dict-like (hash-based) but store unique values. Critical for deduplication and O(1) lookup patterns. |
 
 ### Phase 3: Control Flow & Functions
