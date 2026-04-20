@@ -9,8 +9,8 @@ Fundamentals - Dictionaries: 0
 Fundamentals - Sets: 0
 Fundamentals - Functions: 0
 Fundamentals - Loops & Conditionals: 0
-Fundamentals - List Comprehensions: 0
-Fundamentals - Sorting: 0
+Fundamentals - List Comprehensions: 10
+Fundamentals - Sorting: 10
 Fundamentals - Stacks: 0
 Fundamentals - Queues / Deques: 0
 Fundamentals - Heaps: 0
@@ -22,7 +22,7 @@ Fundamentals - 2D Arrays: 0
 Fundamentals - Binary Search Fundamentals: 0
 
 ## DSA
-DSA - Array Traversal: 0
+DSA - Array Traversal: 10
 DSA - HashMap / Set: 0
 DSA - Two Pointers: 0
 DSA - Sliding Window: 0

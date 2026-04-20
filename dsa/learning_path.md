@@ -85,4 +85,4 @@ Before advancing from module N to module N+1:
 ## Current Position
 
 **Prerequisite**: Complete Fundamentals first.
-**Active Module**: Not started
+**Active Module**: Array Traversal — content created (lesson, drills, practice, cheatsheet, review). Practice drills not yet completed.
